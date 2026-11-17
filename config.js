@@ -15,7 +15,7 @@ window.PORTAL_CONFIG = {
   "heroImage1": "assets/vanilla.webp",
   "heroImage2": "assets/strawberry.webp",
   "heroCaption": "A little happiness in every scoop",
-  "buyer": "The Harbour Café",
+  "buyer": "Causeway Coast Café",
   "accountType": "Hospitality partner",
   "categories": [
     "All products",
